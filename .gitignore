@@ -1,0 +1,72 @@
+# Miscellaneous
+*.swp
+*.swo
+*~
+.DS_Store
+.project/
+.classpath/
+.springBeans/
+.settings/
+.vscode/
+
+# Dart
+.dart_tool/
+.pub-cache/
+.pub/
+/build/
+package_config.json
+
+# Android
+/android/app/debug/
+/android/app/profile/
+/android/app/release/
+/android/build/
+.gradle/
+local.properties
+cd.out
+
+# iOS
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata/
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Windows
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# macOS
+.DS_Store
+
+# IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Logs
+*.log
+logs/
+
+# Coverage
+coverage/
+
+# Test
+test_coverage.json
+
+# Flutter web
+.web/
+web-build/
+
+# Gradle cache (optional)
+.gradle/
